@@ -1,0 +1,16 @@
+Best Practices for Creating Strong Passwords
+--------------------------------------------
+
+1. Use a minimum of 12 to 16 characters.
+2. Combine uppercase letters, lowercase letters, numbers, and symbols.
+3. Avoid common words, names, and personal information.
+4. Do not reuse the same password across multiple accounts.
+5. Use passphrases instead of short passwords.
+6. Enable multi-factor authentication whenever available.
+7. Use a password manager to generate and store passwords securely.
+8. Change passwords immediately if a data breach is suspected.
+9. Avoid predictable patterns like "123", "abc", or "password".
+10. Never share passwords with others.
+
+Summary:
+Strong passwords significantly reduce the risk of unauthorized access and protect user data from common cyber attacks.
