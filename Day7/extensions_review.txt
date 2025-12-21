@@ -1,0 +1,42 @@
+List of Installed Extensions and Analysis
+
+Extension Name: Material You NewTab
+Version: 3.1
+Purpose: Provides a custom new tab page inspired by Google’s Material You design.
+Permissions and Risk Assessment: No excessive permissions observed,Does not access sensitive user data
+Status: SAFE
+Action Taken: Kept
+Reason: This extension is used only for visual customization and does not pose security risks.
+
+Extension Name: AdGuard AdBlocker
+Version: 5.2.600.3
+Purpose: Blocks advertisements, pop-ups, and trackers across websites.
+Permissions and Risk Assessment: Requires access to websites to block ads
+Developed by a well-known and trusted provider
+Status: SAFE
+Action Taken: Kept
+Reason: The extension improves security and privacy by blocking malicious ads and trackers.
+
+Extension Name: Cookie-Editor
+Version: 1.13.0
+Purpose: Allows users to view, edit, and delete browser cookies.
+Permissions and Risk Assessment: Has access to cookies and website data,High-privilege extension
+Status: POTENTIAL RISK
+Action Taken: Kept (Use Only When Needed)
+Reason: Useful for development and testing purposes, but should be disabled when not required due to access to sensitive data.
+
+Extension Name: Enable Right Click
+Version: 1.2.1
+Purpose: Enables right-click functionality on websites where it is disabled.
+Permissions and Risk Assessment: Modifies website behavior Can interact with webpage content
+Status: MODERATE RISK
+Action Taken: Kept (Optional)
+Reason: Not malicious, but unnecessary for regular browsing and should be disabled when not in use.
+
+Extension Name: Google Docs Offline
+Version: 1.99.1
+Purpose: Allows viewing and editing Google Docs, Sheets, and Slides without internet access.
+Permissions and Risk Assessment: Official Google extension,Limited and trusted permissions
+Status: SAFE
+Action Taken: Kept
+Reason: Trusted extension from Google with legitimate offline functionality.
