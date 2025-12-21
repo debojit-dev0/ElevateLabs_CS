@@ -11,7 +11,7 @@ To understand what makes a password strong and evaluate different passwords usin
 | Password | Composition | Strength | Feedback |
 |--------|------------|----------|----------|
 | password123 | lowercase + numbers | Weak | Very common and predictable |
-| Password@123 | uppercase, lowercase, number, symbol | Medium | Better but still guessable |
+| Password@1235866 | uppercase, lowercase, number, symbol | Medium | Better but still guessable |
 | P@9xL!2#QmZ7 | mixed characters | Strong | High randomness |
 | Sun*Rain$Cloud_89 | passphrase + symbols | Very Strong | Long and unpredictable |
 
