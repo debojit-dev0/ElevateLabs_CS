@@ -1,0 +1,16 @@
+Browser Extension Security Best Practices
+----------------------------------------
+
+1. Install extensions only from official web stores.
+2. Check permissions before installing any extension.
+3. Avoid extensions that ask for access to all websites.
+4. Remove extensions that are not regularly used.
+5. Read user reviews and ratings carefully.
+6. Keep browser and extensions updated.
+7. Avoid extensions from unknown developers.
+8. Restart browser after removing extensions.
+9. Report suspicious extensions to the browser store.
+10. Review extensions periodically.
+
+Summary:
+Malicious extensions can steal data, track activity, and compromise security. Regular review helps prevent these risks.
