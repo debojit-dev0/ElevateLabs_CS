@@ -12,7 +12,7 @@ To understand what makes a password strong and evaluate different passwords usin
 |--------|------------|----------|----------|
 | password123 | lowercase + numbers | Weak | Very common and predictable |
 | Password@1235866 | uppercase, lowercase, number, symbol | Medium | Better but still guessable |
-| P@9xL!2#QmZ7 | mixed characters | Strong | High randomness |
+| P@9xL!H | mixed characters | Strong | High randomness |
 | Sun*Rain$Cloud_89 | passphrase + symbols | Very Strong | Long and unpredictable |
 
 ## Common Password Attacks
